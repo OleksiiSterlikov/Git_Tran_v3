@@ -3,3 +3,4 @@ This is sample file 1
 
 Testing reset Commit 1
 
+This is Comparion lecture
