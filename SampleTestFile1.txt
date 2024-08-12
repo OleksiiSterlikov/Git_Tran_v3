@@ -5,3 +5,4 @@ Merge in branch.
 Testing reset Commit 1
 
 This is Comparion lecture
+This is Stash lect, Cange in File 1
